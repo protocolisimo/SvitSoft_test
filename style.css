@@ -291,10 +291,10 @@ header {
   }
     header .header-tools {
       padding: 0 0px 0 24px;
-      max-width: 99px;
+      width: 99px;
     }
       header.expandet-menu .header-tools {
-        max-width: fit-content;
+        width: 250px;
       }
 
     header .header-logo {
